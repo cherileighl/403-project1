@@ -7,6 +7,6 @@ namespace Project1_FoodiesForLife.Models
 {
     public class Restaurant
     {
-        
+        public static string Message { get; set; }
     }
 }
